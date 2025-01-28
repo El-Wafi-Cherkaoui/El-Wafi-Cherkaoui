@@ -2,7 +2,7 @@
 <h3 align="center">I’m a front-end web developer with a strong passion for creating beautiful, responsive, and user-friendly websites. My expertise lies in transforming ideas into seamless digital experiences using modern web technologies. I also have experience working with backend technologies to build APIs and manage data flow, enabling complete and dynamic web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el-wafi-cherkaoui&label=Profile%20views&color=c64600&style=plastic" alt="el-wafi-cherkaoui" /> </p>
-<a href="https://cherkaoui-el-wafi.netlify.app/" target="_blank">My profilio</a>
+<a href="https://cherkaoui-el-wafi.netlify.app/" target="_blank">My portfolio</a>
 
 - 🔭 I’m currently working on [Game Galaxy](https://github.com/El-Wafi-Cherkaoui/Game_Galaxy)
 
