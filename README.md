@@ -36,6 +36,7 @@ I’m a full-stack developer with a strong passion for creating beautiful, respo
 -->
 
 [![](https://visitcount.itsvg.in/api?id=El-Wafi-Cherkaoui&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://nirzak-streak-stats.vercel.app/?user=El-Wafi-Cherkaoui&theme=dark&hide_border=false)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
